@@ -4,6 +4,9 @@ EE32015 coursework, University of Bath. A six-wheel skid-steer robot with a lift
 
 **Result:** in four full runs, all 10 containers were delivered upright inside the green area, with no person hit and no other container knocked over (about 37 simulated minutes per run).
 
+## Demo video
+Full run of the robot (about 23 minutes): https://uniofbath.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6a1743f3-9dea-4a64-9909-b4f700024bd8 (a University of Bath login may be required to view it).
+
 ## The task
 - 50 m x 50 m disaster scene in CoppeliaSim Edu (Bullet 2.78, 50 ms time step). I could only change the robot, not the scene.
 - The robot starts on a three-step pyramid (0.2 m steps) and must deliver 10 containers to a 5 m x 5 m safe zone at (20, 20).
